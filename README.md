@@ -32,7 +32,10 @@ se è dispari inseriscilo nell'array.
 
 ### Svolgimento
 
-- testo
+- Creo un array vuoto
+- Con un ciclo for chiedo per 6 volte all'utente di inserire un numero
+- Se il numero è dispari
+  inserisco il numero nell'array
 
 ## Snack 6
 
