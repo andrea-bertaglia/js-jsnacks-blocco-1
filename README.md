@@ -19,7 +19,10 @@ no alla festa.
 
 ### Svolgimento
 
-- testo
+- Creo l'array degli invitati
+- Creo una variabile flag
+- Chiedo all'utente di inserire il proprio nome
+- Tramite un ciclo for scorro tutti gli elementi per verificare se c'è il nominativo inserito dall'utente
 
 ## JSnack 5
 
