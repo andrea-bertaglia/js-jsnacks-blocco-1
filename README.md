@@ -63,7 +63,8 @@ e calcola la somma di tutte le cifre che compongono il numero.
 
 ### Svolgimento
 
-- testo
+- Chiedo all'utente un numero di 4 cifre
+- Con un ciclo for estraggo le singole cifre e le sommo in una variabile
 
 ## JSnack 9
 
