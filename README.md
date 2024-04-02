@@ -72,4 +72,6 @@ Calcola la somma e la media dei primi 10 numeri.
 
 ### Svolgimento
 
-- testo
+- Inizializzo le variabili somma e media
+- Con un ciclo for calcolo la somma
+- Calcolo la media
