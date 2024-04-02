@@ -53,7 +53,8 @@ Stampa le potenze di 2 fino a 1000.
 
 ### Svolgimento
 
-- testo
+- Creo una variabile per il calcolo
+- Con un ciclo for stampo tutte le potenze di fino a 1000
 
 ## JSnack 8
 
