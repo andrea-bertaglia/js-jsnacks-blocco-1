@@ -7,7 +7,9 @@ Il programma stampa la somma di tutti i numeri inseriti.
 
 ### Svolgimento
 
-- testo
+- Chiedere tramite prompt 10 volte l'inserimento di un numero (uso array con ciclo for)
+- Dichiaro una variabile per estrarre i singoli valori e una di appoggio per la somma
+- Con un altro ciclo for sommo tutti i dati dell'array
 
 ## JSnack 4
 
