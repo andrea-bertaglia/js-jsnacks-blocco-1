@@ -44,7 +44,8 @@ dove N è un numero indicato dall'utente.
 
 ### Svolgimento
 
-- testo
+- Chiedo all'utente di inserire il numero
+- Con un ciclo for ripetuto n volte in base a quanto scelto dall'utente, stampo il cubo di ciascun numero
 
 ## JSnack 7
 
